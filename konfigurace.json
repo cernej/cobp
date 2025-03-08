@@ -1,0 +1,20 @@
+[
+    {
+        "jmeno": "Martin",
+        "prijmeni": "Dvorak",
+        "rodne cislo": "987654/3210",
+        "email": "aaa"
+    },
+    {
+        "jmeno": "Tomas",
+        "prijmeni": "Novak",
+        "rodne cislo": "123456/7890",
+        "email": "bbb"
+    },
+    {
+        "jmeno": "Agata",
+        "prijmeni": "Mala",
+        "rodne cislo": "123456/7890",
+        "email": "bbb"
+    }
+]
